@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category1 on Tony King</title>
+    <link>https://tonyking0504.github.io/categories/category1/</link>
+    <description>Recent content in category1 on Tony King</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Jun 2021 21:31:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://tonyking0504.github.io/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://tonyking0504.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 17 Jun 2021 21:31:58 +0800</pubDate>
+      
+      <guid>https://tonyking0504.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;yutong sb&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
